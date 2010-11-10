@@ -1,0 +1,13 @@
+{
+	"name" : "lsd",
+	"description" : "A module that helps you take \"trips\" through callbacks.",
+	"keywords" : ["module", "lsd", "callback", "flow-js", "async", "asynchronous"],
+	"version" : "0.1.0",
+	"author" : "A.J. Cates <aj@ajcates.com>",
+	"repository" : {
+		"type" : "git",
+	    "url" : "http://github.com/ajcates/lsd.git"
+	},
+	"main": "./lsd.js",
+	"engines": { "node": ">= 0.2.0" }
+}
